@@ -24,7 +24,7 @@ A simple GUI wrapper for the official [Cloudflare Warp CLI](https://pkg.cloudfla
 
 ## 📦 Download
 
-Currently you can install app with .deb file.. download using link : [WARP UI - Unofficial](https://github.com/cas8398/warp-ui-unofficial/blob/master/build/1.0/warp-ui_1.0_amd64.deb)
+Download the latest .deb package: [WARP UI - Unofficial Release](https://github.com/cas8398/warp-ui-unofficial/releases)
 
 ## 🖼️ Screenshot
 
