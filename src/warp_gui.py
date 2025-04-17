@@ -68,7 +68,7 @@ class WarpGUI:
 
         github_link.bind(
             "<Button-1>",
-            lambda e: webbrowser.open("https://github.com/yourusername/warp-gui"),
+            lambda e: webbrowser.open("https://github.com/cas8398/warp-ui-unofficial"),
         )
 
     def configure_styles(self):
