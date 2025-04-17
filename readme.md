@@ -21,3 +21,5 @@ A simple GUI wrapper for the official [Cloudflare Warp CLI](https://pkg.cloudfla
   sudo apt install cloudflare-warp
   sudo warp-cli register
   ```
+
+![App Preview](screenshot/v1.0.png)
