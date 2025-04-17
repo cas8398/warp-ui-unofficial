@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Warp UI
+Comment=Unofficial Cloudflare Warp GUI
+Exec=/usr/local/bin/warp-ui
+Icon=warp-icon
+Terminal=false
+Type=Application
+Categories=Network; 

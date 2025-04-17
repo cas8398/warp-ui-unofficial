@@ -1,0 +1,9 @@
+Package: warp-ui
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-tk
+Maintainer: Your Name <you@example.com>
+Description: Unofficial GUI for Cloudflare Warp CLI
+  A simple tkinter-based GUI wrapper for Warp CLI.
